@@ -23,9 +23,9 @@ printf "\e[1;93m              |___/                        \e[0m\e[1;92m\__ \e[0
 printf "\e[1;92m                                              \ \e[0m\n"
 
 
-printf "\e[1;77m v1.0 coded by github.com/thelinuxchoice/sayhello\e[0m \n"
+printf "\e[1;77m v1.0 coded by Divyanshu Nishad(@manu_nishad__)\e[0m \n"
 
-printf " Twitter: @linux_choice\n"
+printf " Insta: @manu_nishad__\n"
 
 
 }
